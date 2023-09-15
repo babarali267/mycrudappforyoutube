@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mycrudappforyoutube/static/css/main.aadc1aad.css",
+    "main.js": "/mycrudappforyoutube/static/js/main.32d4f5b9.js",
+    "index.html": "/mycrudappforyoutube/index.html",
+    "main.aadc1aad.css.map": "/mycrudappforyoutube/static/css/main.aadc1aad.css.map",
+    "main.32d4f5b9.js.map": "/mycrudappforyoutube/static/js/main.32d4f5b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aadc1aad.css",
+    "static/js/main.32d4f5b9.js"
+  ]
+}
